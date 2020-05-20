@@ -1,10 +1,10 @@
-## Leftmost Column with at Least a One (Test Case)
+## Leftmost Column with at Least a One
+
 (This problem is an interactive problem.)
+
 A binary matrix means that all elements are 0 or 1. For each individual row of the matrix, this row is sorted in non-decreasing order.
 
-Given a row-sorted binary matrix binaryMatrix, return leftmost column index(0-indexed) with at least a 1 in it. If such index doesn't exist, return -1.
-
-You can't access the Binary Matrix directly.  You may only access the matrix using a BinaryMatrix interface:
+Given a row-sorted binary matrix binaryMatrix, return leftmost column index(0-indexed) with at least a 1 in it. If such index doesn't exist, return -1. You can't access the Binary Matrix directly.  You may only access the matrix using a BinaryMatrix interface:
 
 BinaryMatrix.get(x, y) returns the element of the matrix at index (x, y) (0-indexed).
 
