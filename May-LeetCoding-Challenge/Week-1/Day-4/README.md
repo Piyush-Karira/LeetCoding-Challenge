@@ -17,7 +17,10 @@ Explanation: The binary representation of 1 is 1 (no leading zero bits), and its
 ### Constraints:
 
 The given integer num is guaranteed to fit within the range of a 32-bit signed integer.
+
 num >= 1
+
 You could assume no leading zero bit in the integer’s binary representation.
+
 This question is the same as 1009: https://leetcode.com/problems/complement-of-base-10-integer/
 
