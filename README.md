@@ -9,5 +9,5 @@ This repository is maintained to provide clean and optimal ```C++``` solutions t
 1. [30-Day-LeetCoding-Challenge](https://github.com/Piyush-Karira/LeetCoding-Challenge/tree/master/30-Days-LeetCoding-Challenge)
 2. [May-LeetCoding-Challenge](https://github.com/Piyush-Karira/LeetCoding-Challenge/tree/master/May-LeetCoding-Challenge)
 
-**Keep Coding :)**
+**Happy Coding :)**
 
