@@ -28,4 +28,10 @@ Contest Link: [May LeetCoding Challenge](https://leetcode.com/explore/challenge/
 16. [Odd Even Linked List](https://github.com/Piyush-Karira/LeetCoding-Challenge/tree/master/May-LeetCoding-Challenge/Week-3/Day-16)  
 17. [Find All Anagrams in a String](https://github.com/Piyush-Karira/LeetCoding-Challenge/tree/master/May-LeetCoding-Challenge/Week-3/Day-17)  
 18. [Permutation in String](https://github.com/Piyush-Karira/LeetCoding-Challenge/tree/master/May-LeetCoding-Challenge/Week-3/Day-18)  
-19. [Online Stock Span](https://github.com/Piyush-Karira/LeetCoding-Challenge/tree/master/May-LeetCoding-Challenge/Week-3/Day-19)  
+19. [Online Stock Span](https://github.com/Piyush-Karira/LeetCoding-Challenge/tree/master/May-LeetCoding-Challenge/Week-3/Day-19) 
+20. [Kth Smallest Element in a BST](https://github.com/Piyush-Karira/LeetCoding-Challenge/tree/master/May-LeetCoding-Challenge/Week-3/Day-20) 
+21. [Count Square Submatrices with All Ones](https://github.com/Piyush-Karira/LeetCoding-Challenge/tree/master/May-LeetCoding-Challenge/Week-3/Day-21) 
+
+## Week 4
+
+22. [Sort Characters By Frequency](https://github.com/Piyush-Karira/LeetCoding-Challenge/tree/master/May-LeetCoding-Challenge/Week-4/Day-22) 
