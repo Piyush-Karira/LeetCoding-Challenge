@@ -12,7 +12,8 @@ Return the maximum number of connecting lines we can draw in this way.
  
 
 ### Example 1:
-![image](https://assets.leetcode.com/uploads/2019/04/26/142.png)
+<img src="https://assets.leetcode.com/uploads/2019/04/26/142.png" width="150">
+
 ```
 Input: A = [1,4,2], B = [1,2,4]
 Output: 2
