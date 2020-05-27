@@ -37,3 +37,5 @@ Contest Link: [May LeetCoding Challenge](https://leetcode.com/explore/challenge/
 22. [Sort Characters By Frequency](https://github.com/Piyush-Karira/LeetCoding-Challenge/tree/master/May-LeetCoding-Challenge/Week-4/Day-22) 
 23. [Interval List Intersections](https://github.com/Piyush-Karira/LeetCoding-Challenge/tree/master/May-LeetCoding-Challenge/Week-4/Day-23) 
 24. [Construct Binary Search Tree from Preorder Traversal](https://github.com/Piyush-Karira/LeetCoding-Challenge/tree/master/May-LeetCoding-Challenge/Week-4/Day-24) 
+25. [Uncrossed Lines](https://github.com/Piyush-Karira/LeetCoding-Challenge/tree/master/May-LeetCoding-Challenge/Week-4/Day-25) 
+26. [Contiguous Array](https://github.com/Piyush-Karira/LeetCoding-Challenge/tree/master/May-LeetCoding-Challenge/Week-4/Day-26) 
