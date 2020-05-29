@@ -38,4 +38,7 @@ Contest Link: [May LeetCoding Challenge](https://leetcode.com/explore/challenge/
 23. [Interval List Intersections](https://github.com/Piyush-Karira/LeetCoding-Challenge/tree/master/May-LeetCoding-Challenge/Week-4/Day-23) 
 24. [Construct Binary Search Tree from Preorder Traversal](https://github.com/Piyush-Karira/LeetCoding-Challenge/tree/master/May-LeetCoding-Challenge/Week-4/Day-24) 
 25. [Uncrossed Lines](https://github.com/Piyush-Karira/LeetCoding-Challenge/tree/master/May-LeetCoding-Challenge/Week-4/Day-25) 
-26. [Contiguous Array](https://github.com/Piyush-Karira/LeetCoding-Challenge/tree/master/May-LeetCoding-Challenge/Week-4/Day-26) 
+26. [Contiguous Array](https://github.com/Piyush-Karira/LeetCoding-Challenge/tree/master/May-LeetCoding-Challenge/Week-4/Day-26)
+27. [Possible Bipartition](https://github.com/Piyush-Karira/LeetCoding-Challenge/tree/master/May-LeetCoding-Challenge/Week-4/Day-27) 
+28. [Counting Bits](https://github.com/Piyush-Karira/LeetCoding-Challenge/tree/master/May-LeetCoding-Challenge/Week-4/Day-28) 
+
