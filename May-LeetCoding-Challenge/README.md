@@ -42,3 +42,8 @@ Contest Link: [May LeetCoding Challenge](https://leetcode.com/explore/challenge/
 27. [Possible Bipartition](https://github.com/Piyush-Karira/LeetCoding-Challenge/tree/master/May-LeetCoding-Challenge/Week-4/Day-27) 
 28. [Counting Bits](https://github.com/Piyush-Karira/LeetCoding-Challenge/tree/master/May-LeetCoding-Challenge/Week-4/Day-28) 
 
+## Week 5
+29. [Course Schedule](https://github.com/Piyush-Karira/LeetCoding-Challenge/tree/master/May-LeetCoding-Challenge/Week-5/Day-29) 
+30. [K Closest Points to Origin](https://github.com/Piyush-Karira/LeetCoding-Challenge/tree/master/May-LeetCoding-Challenge/Week-5/Day-30)
+31. [Edit Distance](https://github.com/Piyush-Karira/LeetCoding-Challenge/tree/master/May-LeetCoding-Challenge/Week-5/Day-31)
+
